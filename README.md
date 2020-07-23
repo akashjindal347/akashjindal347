@@ -48,6 +48,12 @@
 <a href="https://github.com/akashjindal347/Doubtout">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Doubtout&theme=dark" />
 </a>
+<a href="https://github.com/akashjindal347/Attendance-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Attendance-App&theme=dark" />
+</a>
+<a href="https://github.com/akashjindal347/bajajhealth-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=bajajhealth-app&theme=dark" />
+</a>
 
 <div align="center">
 
