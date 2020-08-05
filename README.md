@@ -42,17 +42,17 @@
 <br/>
 <br/>
 <a href="https://github.com/akashjindal347/Flutter-Mini-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Flutter-Mini-Projects&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Flutter-Mini-Projects" />
 
 </a>
 <a href="https://github.com/akashjindal347/Doubtout">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Doubtout&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Doubtout" />
 </a>
 <a href="https://github.com/akashjindal347/Attendance-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Attendance-App&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Attendance-App" />
 </a>
 <a href="https://github.com/akashjindal347/bajajhealth-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=bajajhealth-app&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=bajajhealth-app" />
 </a>
 
 <div align="center">
