@@ -37,27 +37,23 @@
 
 
 <a href="https://github.com/akashjindal347">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjindal347&show_icons=true&line_height=27&theme=buefy" alt="Akash's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjindal347&show_icons=true&line_height=27&theme=tokyonight" alt="Akash's github stats"/>
 </a>
 <br/>
 <br/>
 <a href="https://github.com/akashjindal347/Flutter-Mini-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Flutter-Mini-Projects&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Flutter-Mini-Projects&theme=tokyonight" />
 
 </a>
-<br/>
 <a href="https://github.com/akashjindal347/Doubtout">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Doubtout&theme=buefy" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Doubtout&theme=tokyonight" />
 </a>
-<br/>
 <a href="https://github.com/akashjindal347/Attendance-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Attendance-App&theme=buefy" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=Attendance-App&theme=tokyonight" />
 </a>
-<br/>
 <a href="https://github.com/akashjindal347/bajajhealth-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=bajajhealth-app&theme=buefy" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akashjindal347&repo=bajajhealth-app&theme=tokyonight" />
 </a>
-<br/>
 
 <div align="center">
 
