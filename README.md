@@ -37,7 +37,7 @@
 
 
 <a href="https://github.com/akashjindal347">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjindal347&show_icons=true&line_height=27&theme=tokyonight" alt="Akash's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashjindal347&show_icons=true&line_height=27&theme=tokyonight" alt="Akash's github stats"/>
 </a>
 <img align="right" width="300" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
