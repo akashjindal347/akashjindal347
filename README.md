@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/akashjindal124/">
   <img align="left" alt="Akash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img align="right" width="400" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+<img align="right" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 <br/>
