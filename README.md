@@ -13,6 +13,8 @@
   <img align="left" alt="Akash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<img align="right" width="300" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+
 <br/>
 <br/>
 
@@ -23,7 +25,6 @@
 - 💬 Ask me about Flutter, Django and ReactJS.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/akash-jindal) , [Instagram - @_akkash_](https://www.instagram.com/_akkash_/)
 
-<img align="right" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
 
 **Languages and Tools:**  
