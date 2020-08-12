@@ -23,7 +23,7 @@
 - 💬 Ask me about Flutter, Django and ReactJS.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/akash-jindal) , [Instagram - @_akkash_](https://www.instagram.com/_akkash_/)
 
-
+<img align="right" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
 
 **Languages and Tools:**  
