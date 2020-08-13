@@ -21,7 +21,7 @@
 
 
 - 📕 I’m pursuing my Btech in computer science from Thapar University, Patiala.
-- 👯 I’m a developer by passion
+- 👯 I’m a tech-enthusiast who has a doting affection for programming, full stack Web Developing with a passion for designing beautiful and functional user experience and speaking on such topics.
 - 💬 Ask me about Flutter, Django and ReactJS.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/akash-jindal) , [Instagram - @_akkash_](https://www.instagram.com/_akkash_/)
 
