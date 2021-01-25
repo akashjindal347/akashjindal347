@@ -1,4 +1,4 @@
-## Hey, I'm [Akash Jindal!](https://akashjindal347.github.io) 👋
+## Hey, I'm [Akash Jindal!](https://akashjindal347.github.io) 👨🏻‍💻
 
 <a href="https://linkedin.com/in/akash-jindal">
   <img align="left" alt="Akash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
