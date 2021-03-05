@@ -25,8 +25,6 @@
 - 💬 Ask me about NodeJS, Django and ReactJS.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/akash-jindal) , [Instagram - @_akkash_](https://www.instagram.com/_akkash_/)
 
-![](https://komarev.com/ghpvc/?username=akashjindal347&color=blue)
-
 
 **Languages and Tools:**  
 
