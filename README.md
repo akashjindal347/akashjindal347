@@ -21,7 +21,7 @@
 - 😎 Software Engineer @<a href="https://www.pratilipi.com/">Pratilipi</a>
 - 👩🏻‍🎤 Portfolio - <a href="https://akashjindal347.github.io">Link</a>
 - 👨🏻‍🎓 Btech,Computer science - Thapar University, Patiala.
-- 😄I’m a tech-enthusiast who has a doting affection for programming, full stack Web Developing with a passion for designing beautiful and functional user experience and speaking on such topics.
+- 😄 I’m a tech-enthusiast who has a doting affection for programming, full stack Web Developing with a passion for designing beautiful and functional user experience and speaking on such topics.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/akash-jindal) , [Instagram - @_akkash_](https://www.instagram.com/_akkash_/)
 
 
