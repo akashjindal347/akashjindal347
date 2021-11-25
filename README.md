@@ -40,10 +40,6 @@
 
 
 
-<a href="https://github.com/akashjindal347">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjindal347&show_icons=true&line_height=27&theme=gotham&show_icons=true&hide_border=true" alt="Akash's github stats"/>
-</a>
-
 <br/>
 <br/>
 
